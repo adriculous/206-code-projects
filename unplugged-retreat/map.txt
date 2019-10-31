@@ -1,0 +1,35 @@
+Unplugged Retreat Site Map
+
+- Header
+    - Logo
+    - Nav
+        - About
+        - FAQ
+    - Headline
+    - Img
+
+- Content
+    - Newsletter signup
+        - Headline text
+        - Paragraph text
+        - Headline text
+        - Email field
+        - Submit button
+    - Unplugged info
+        - Headline text
+        - Background image
+        - Icons (Font Awesome?)
+        - text
+    - Previous retreats
+        - Headline text
+        - Paragraph text
+        - Image
+
+- Footer
+    - Contact
+        - Headline text
+        - Contact info
+    - Social Media
+        - Headline text
+        - Social Icons
+    - Copyright
