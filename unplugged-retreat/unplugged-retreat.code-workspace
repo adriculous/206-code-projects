@@ -13,5 +13,7 @@
 			"path": "/Users/adriculous/Dropbox/Skillcrush/Phase 2/Responsive Web Design/206-unplugged_retreat-04-about"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "unplugged-retreat"
+	}
 }
